@@ -1,0 +1,2 @@
+module ejercico2 {
+}
